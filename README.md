@@ -14,5 +14,5 @@
 ```
 
 
-A library for writing simpler minimal react like components in vanilla.
+A library for writing simpler minimal react like components in vanilla javascript.
 
